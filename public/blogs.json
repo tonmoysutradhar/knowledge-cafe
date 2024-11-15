@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/txd2MFG/4166566.jpg",
+        "title": "Exploring the Future of AI",
+        "author": "Emily Carter",
+        "author_img": "https://i.ibb.co.com/v34FN95/IMG-20220429-232123.jpg",
+        "posted_date": "2024-07-15",
+        "reading_time": 8,
+        "hashtags": ["#TechTrends", "#AI", "#Future"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/FJCp93t/develop-coding-web-design-coding-web-template.jpg",
+        "title": "Green Energy Innovations",
+        "author": "Ryan Blake",
+        "author_img": "https://i.ibb.co.com/v34FN95/IMG-20220429-232123.jpg",
+        "posted_date": "2024-07-20",
+        "reading_time": 5,
+        "hashtags": ["#Sustainability", "#GreenEnergy", "#Environment"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/stWLV1b/5140936.jpg",
+        "title": "Interior Design Trends for 2024",
+        "author": "Sophia Nguyen",
+        "author_img": "https://i.ibb.co.com/v34FN95/IMG-20220429-232123.jpg",
+        "posted_date": "2024-07-25",
+        "reading_time": 7,
+        "hashtags": ["#Design", "#Architecture", "#InteriorDesign"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/Y8zgKc7/5119268.jpg",
+        "title": "Mastering Python for Beginners",
+        "author": "Michael Tan",
+        "author_img": "https://i.ibb.co.com/v34FN95/IMG-20220429-232123.jpg",
+        "posted_date": "2024-07-30",
+        "reading_time": 10,
+        "hashtags": ["#Programming", "#Python", "#Coding"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/gtL3FLM/7718598.jpg",
+        "title": "Top 10 Travel Destinations",
+        "author": "Zara Patel",
+        "author_img": "https://i.ibb.co.com/v34FN95/IMG-20220429-232123.jpg",
+        "posted_date": "2024-08-05",
+        "reading_time": 6,
+        "hashtags": ["#Travel", "#Adventure", "#Photography"]
+    }
+]
